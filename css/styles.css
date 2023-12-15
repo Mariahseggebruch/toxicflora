@@ -410,7 +410,7 @@ the website, in dark theme
 
 .about__img{
   width: 280px;
-  justify-self: center;
+  justify-self: start; /* Position the image to the left, changed from center */
 }
 
 .about__title{
