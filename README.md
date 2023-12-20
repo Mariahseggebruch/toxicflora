@@ -25,7 +25,7 @@ Forms
 
 ## Magic Makers
 - Mariah Seggebruch
-- Kaylene Killbourn
+- Kaylene Kilbourn
 - Jamie Toman
 
 
